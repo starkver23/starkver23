@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starkver23
-- 👀 I’m interested in python and java 
-- 🌱 I’m currently learning c language and python
+- 👀 I’m interested in web development and java 
+- 🌱 Advanced learner of C language.
 -
 -
 

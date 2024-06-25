@@ -35,7 +35,7 @@
             alt="MySQL" width="40" height="40" />
     </a>
     <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+        <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"
             alt="Django" width="40" height="40" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">

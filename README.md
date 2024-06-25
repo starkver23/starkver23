@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **backend with Django**
 - 💬 Ask me about **Java, Python, Machine Learning**
 - 📫 How to reach me: **verma.vibes25@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1QQCuBMZYc1leepIuET6mFBYCcLzjXf9w?usp=sharing]
-(https://drive.google.com/drive/folders/1QQCuBMZYc1leepIuET6mFBYCcLzjXf9w?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/drive/folders/1QQCuBMZYc1leepIuET6mFBYCcLzjXf9w?usp=sharing
+
 - ⚡ Fun fact **I am good at football and swimming**
 
 <h3 align="left">Connect with me:</h3>

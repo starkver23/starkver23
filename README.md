@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Verma</h1>
 <h3 align="center">A software engineer intern from India</h3>
 <img align="right" alt="coding man" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=starkver23&label=Profile%20views&color=0e75b6&style=flat" alt="diksha-dwivedi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=starkver23&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-verma" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
-- 🌱 I’m currently learning **backend with Django**
-- 💬 Ask me about **Java, Python, Machine Learning**
+- 🔭 I’m currently working on **Self Development**
+- 🌱 I’m currently learning **DSA, DAA and System Design**
+- 💬 Ask me about **Java, Python, Web Development**
 - 📫 How to reach me: **verma.vibes25@gmail.com**
 - 📄 Know about my experiences https://drive.google.com/drive/folders/1QQCuBMZYc1leepIuET6mFBYCcLzjXf9w?usp=sharing
 
@@ -56,4 +56,4 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starkver23&show_icons=true&locale=en&layout=compact" alt="diksha-dwivedi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starkver23&show_icons=true&locale=en&layout=compact" alt="aryan-verma" /></p>
